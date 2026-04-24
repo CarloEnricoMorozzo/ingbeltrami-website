@@ -1,0 +1,28 @@
+{
+  "name": "MVB Ingegnere Edile — Michelle Vittoria Beltrami",
+  "short_name": "MVB Ingegnere",
+  "description": "Studio di ingegneria edile a Chivasso, Torino, Ivrea, Susa, Pinerolo, Cuneo, Asti e Vercelli. Progettazione strutturale & architettonica, prevenzione incendi, direzione lavori.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#c8a96a",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "img/Icone/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "img/Icone/apple-touch-icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "img/Icone/apple-touch-icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
